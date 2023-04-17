@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code
 
 #### Day 0: April 17, 2023
 
@@ -21,6 +21,24 @@ We humans write the program in simple english, which is called a high level lang
 ## ABCD of Python
 
 To write any language we need to learn the alphabets to form words, then use words to form sentences and use correct grammer for our sentences to make sense. So if we want write instruction in the language of python then we need to learn the words of python. Luckily there are only a few words in the python vocabulary and using these words we can write amazing programs that do all sorts of things. 
+
+There are total 68 functions in python. In python the equivalent of "speak" is "print". Python is stupid and if you write "Print"(Notice the capital P) instead of "print" then it will give you error and won't print the output. 
+
+Lets write our first python program. 
+
+```
+print("Hello World!")
+```
+
+Please run this in your python interpreter and this shall give you the following out put 
+
+```
+Hello World!
+```
+
+
+
+
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
