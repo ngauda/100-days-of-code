@@ -1,5 +1,5 @@
-Day 2: Print Statements and Taking Input from Users
-Welcome to Day 2 of the 100 Days of Python Challenge! Today, we will be exploring how to use print statements to display messages on the screen, as well as how to take input from users.
+Day 1: Print Statements and Taking Input from Users
+Welcome to Day 1 of the 100 Days of Python Challenge! Today, we will be exploring how to use print statements to display messages on the screen, as well as how to take input from users.
 
 Using Print Statements
 In Python, the print() function is used to display messages on the screen. To use the print() function, you simply need to provide the message that you want to display inside the parentheses. For example:
@@ -44,5 +44,5 @@ num = int(input("Enter a number: "))
 print("The square of", num, "is", num**2)
 This will prompt the user to enter a number, convert the input to an integer using the int() function, and then display the message "The square of [num] is [num**2]" on the screen.
 
-That's all for today! Practice using print statements and taking input from users in your own Python programs. See you tomorrow for Day 3!
+That's all for today! Practice using print statements and taking input from users in your own Python programs. See you tomorrow for Day 2!
 
